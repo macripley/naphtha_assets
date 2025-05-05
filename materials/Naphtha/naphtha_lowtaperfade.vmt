@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "naphtha/naphtha_lowtaperfade"
+	"$translucent" 1
+	"$additive" "1"
+	"$decal" 1
+	"%keywords" "tf"
+}
+

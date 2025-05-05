@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"concrete/concrete_naphtha_003"
+//	"$bumpmap"	"concrete/concrete_naphtha_ssbump"
+//	"$ssbump" "1"
+	"$surfaceprop"	"concrete"
+
+	"$detail" "overlays/detail001"
+	"$detailscale" "1.9"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+
+	"%keywords"	"tf"
+}
