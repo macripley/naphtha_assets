@@ -1,8 +1,8 @@
 "LightmappedGeneric"
 {
 	"$baseTexture"	"concrete/concrete_naphtha_002"
-	"$bumpmap"	"concrete/concrete_naphtha_ssbump"
-	"$ssbump" "1"
+//	"$bumpmap"	"concrete/concrete_naphtha_ssbump"
+//	"$ssbump" "1"
 	"$surfaceprop"	"concrete"
 
 	"$detail" "overlays/detail001"

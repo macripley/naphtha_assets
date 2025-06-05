@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "naphtha/naphthacurbdecal_large"
+
+	$translucent 1
+	$decal 1
+	"%keywords" "tf"
+}

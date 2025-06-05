@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "naphtha/naphthametalwall004b"
+	"$bumpmap" "naphtha/naphthametalwall001_bump1"
+    "$ssbump" "1"
+	"$surfaceprop" "metal"
+	"%keywords" "tf"
+	
+	//$normalmapalphaenvmapmask 1
+	"$envmap" "naphtha/cubemap_sheen001_avenue"
+	"$envmaptint" "[.003 .003 .003]"
+}
