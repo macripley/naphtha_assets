@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_offshore_project/naphtha/naphtha_tunnelgate"
+	"$surfaceprop" "metal"
+}

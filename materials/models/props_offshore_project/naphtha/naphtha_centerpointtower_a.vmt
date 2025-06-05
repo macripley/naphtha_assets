@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_offshore_project/naphtha/naphtha_centerpointtower_a"	
+	"$surfaceprop" "metal"
+	"%keywords" "tf"	
+	//$normalmapalphaenvmapmask 1
+//	"$envmap" "naphta/cubemap_sheen001_avenue"
+//	"$envmaptint" "[.003 .003 .003]"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "metal/ibeam001b"	
+	"$surfaceprop" "metal"
+	"%keywords" "tf"	
+	
+	"$detail" "overlays/detail001"
+	"$detailscale" "2"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+	
+	//$normalmapalphaenvmapmask 1
+//	"$envmap" "naphta/cubemap_sheen001_avenue"
+//	"$envmaptint" "[.003 .003 .003]"
+}

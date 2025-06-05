@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_offshore_project/naphtha/naphtha_oilsplats"
+	"$bumpmap" "models/props_offshore_project/naphtha/naphtha_oilsplats_normal"
+	$alphatest 1
+	"$phong" "1"
+	"$phongexponent" "110"
+	"$phongboost" "4"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.3 .5 1]"
+	"$halflambert" "0"
+	"$envmap" "cubemaps/cubemap_oil_b"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.1 0.1 0.1]"
+}
